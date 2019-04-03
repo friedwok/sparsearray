@@ -135,6 +135,7 @@ int main()
 {
 	SparseArray<double> arr1;
 	arr1[10] = 5.5;
+	arr1[33] = 86.4;
 	++arr1[10];
 	arr1[10] += 3.9;
 	arr1[10] = 0;
